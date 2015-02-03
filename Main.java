@@ -14,7 +14,7 @@ public class Main{
 	public static void main(String[] args){
 		
 		Scanner sc = new Scanner(System.in);
-		String fileName = "test_sentences.txt";
+		String fileName = "austen.txt";
 		int n = 2;
 		int m = 10;
 
